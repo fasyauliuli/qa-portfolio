@@ -7,7 +7,7 @@ QA Engineer with 6+ years of experience in manual and automation testing. This r
 ## Tech Stack
 
 - **UI Automation:** Playwright
-- **API Testing:** Postman, Newman, Playwright API
+- **API Testing:** Playwright API, Postman
 - **Performance Testing:** K6
 - **Test Management:** Google Sheets
 - **Documentation:** PDF
