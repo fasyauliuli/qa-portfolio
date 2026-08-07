@@ -59,9 +59,9 @@ Manual testing documentation in senior-style test case format.
 - User Management (Admin)
 - Leave Management
 
-📄 Test Cases (Google Sheets): https://docs.google.com/spreadsheets/d/1CPignBHK9MO02gkUYsFf-N2rOEURlyTBzvXHe5vFSuw/edit?usp=drive_link
+📄 [Test Cases (Google Sheets)](https://docs.google.com/spreadsheets/d/1CPignBHK9MO02gkUYsFf-N2rOEURlyTBzvXHe5vFSuw/edit?usp=drive_link)
 
-📄 Test Plan & Sample Bug Reports: https://drive.google.com/file/d/1Oc-Tj-1eorWbOKPboWU_Mh6ztz0lQOBf/view?usp=drive_link
+📄 [Test Plan & Sample Bug Reports (PDF)](https://drive.google.com/file/d/1Oc-Tj-1eorWbOKPboWU_Mh6ztz0lQOBf/view?usp=drive_link)
 
 ---
 
