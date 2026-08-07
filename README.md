@@ -22,6 +22,7 @@ QA Engineer with 6+ years of experience in manual and automation testing. This r
 End-to-end UI automation project using Playwright.
 
 **Coverage**
+
 - Login
 - Product sorting
 - Add to cart
@@ -39,6 +40,7 @@ End-to-end UI automation project using Playwright.
 API automation project covering CRUD and negative scenarios.
 
 **Coverage**
+
 - Create pet
 - Get pet
 - Update pet
@@ -51,9 +53,10 @@ API automation project covering CRUD and negative scenarios.
 
 ### Manual Testing – OrangeHRM
 
-Manual testing documentation in senior-style test case format.
+Manual testing documentation including test cases, test planning, and sample defect reports.
 
 **Coverage**
+
 - Login
 - Employee Management (PIM)
 - User Management (Admin)
@@ -69,7 +72,7 @@ Manual testing documentation in senior-style test case format.
 
 - 25 Manual Test Cases
 - Test Plan
-- 5 Sample Bug Reports (simulated for portfolio purpose)
+- 5 Sample Bug Reports (simulated for portfolio purposes)
 - BDD Scenarios
 - UI Automation Suite
 - API Automation Suite
@@ -78,8 +81,8 @@ Manual testing documentation in senior-style test case format.
 
 ## Notes
 
-- The OrangeHRM defect reports are **simulated examples** created to demonstrate defect reporting, severity/priority assessment, and documentation skills.
-- Automation projects contain executable test scripts and reports.
+- The OrangeHRM defect reports are **simulated examples** created to demonstrate defect reporting, severity and priority assessment, and documentation skills.
+- Automation projects contain executable test scripts and test reports.
 
 ---
 
