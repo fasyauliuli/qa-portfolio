@@ -1,23 +1,28 @@
 # QA Portfolio – Aulia Fasya Nugroho
 
-QA Engineer with 6+ years of experience in manual and automation testing. This repository serves as a central hub for my QA portfolio projects, including UI automation, API automation, manual testing documentation, and quality assurance deliverables.
+QA Engineer with **6+ years of experience** in manual and automation testing, specializing in UI automation, API testing, performance testing, and quality assurance for web applications.
+
+This repository showcases selected QA projects, including Playwright UI automation, API automation, Cypress automation, and manual testing documentation.
 
 ---
 
 ## Tech Stack
 
-- **UI Automation:** Playwright
+- **UI Automation:** Playwright, Cypress, Selenium
 - **API Testing:** Playwright API, Postman
 - **Performance Testing:** K6
-- **Test Management:** Google Sheets
-- **Documentation:** PDF
-- **Version Control:** Git & GitHub
+- **Programming:** JavaScript, TypeScript, Java
+- **Test Data Preparation:** Python
+- **Test Management:** Qase.io, Google Sheets
+- **Defect Tracking:** Jira
+- **Version Control:** Git
+- **Collaboration & Repository Hosting:** GitHub
 
 ---
 
-## Portfolio Projects
+## Featured Portfolio Projects
 
-### UI Automation – SauceDemo
+### SauceDemo Automation (Playwright)
 
 End-to-end UI automation project using Playwright.
 
@@ -31,11 +36,11 @@ End-to-end UI automation project using Playwright.
 - Logout
 - Negative scenarios
 
-🔗 Repository: https://github.com/fasyauliuli/saucedemo-playwright-native
+🔗 Repository: https://github.com/fasyauliuli/saucedemo-playwright
 
 ---
 
-### API Automation – Swagger Petstore
+### Swagger Petstore API Automation (Playwright API)
 
 API automation project covering CRUD and negative scenarios.
 
@@ -47,13 +52,13 @@ API automation project covering CRUD and negative scenarios.
 - Delete pet
 - Negative validation scenarios
 
-🔗 Repository: https://github.com/fasyauliuli/petstore-playwright-api-native
+🔗 Repository: https://github.com/fasyauliuli/petstore-playwright-api
 
 ---
 
-### Manual Testing – OrangeHRM
+### OrangeHRM Manual Testing
 
-Manual testing documentation including test cases, test planning, and sample defect reports.
+Manual testing documentation including test cases, test planning, and sample bug reports.
 
 **Coverage**
 
@@ -68,21 +73,42 @@ Manual testing documentation including test cases, test planning, and sample def
 
 ---
 
+## Additional Automation Work
+
+### SauceDemo Automation (Cypress)
+
+Additional end-to-end automation implementation using Cypress and JavaScript.
+
+**Coverage**
+
+- Login
+- Product sorting
+- Add to cart
+- Remove from cart
+- Checkout
+- Navigation workflows
+
+🔗 Repository: https://github.com/fasyauliuli/saucedemo-cypress
+
+---
+
 ## Test Deliverables
 
 - 25 Manual Test Cases
 - Test Plan
 - 5 Sample Bug Reports (simulated for portfolio purposes)
 - BDD Scenarios
-- UI Automation Suite
-- API Automation Suite
+- Playwright UI Automation Suite
+- Playwright API Automation Suite
+- Cypress UI Automation Suite
 
 ---
 
 ## Notes
 
-- The OrangeHRM defect reports are **simulated examples** created to demonstrate defect reporting, severity and priority assessment, and documentation skills.
-- Automation projects contain executable test scripts and test reports.
+- The OrangeHRM bug reports are **simulated examples** created to demonstrate bug reporting, severity and priority assessment, and QA documentation skills.
+- Automation projects include executable test scripts and generated test reports.
+- The Cypress project is included as an **additional framework implementation** to demonstrate experience with multiple UI automation frameworks.
 
 ---
 
@@ -90,5 +116,6 @@ Manual testing documentation including test cases, test planning, and sample def
 
 **Aulia Fasya Nugroho**
 
+- Email: liuli.fasya@gmail.com
 - GitHub: https://github.com/fasyauliuli
 - LinkedIn: https://linkedin.com/in/fasyauliuli
